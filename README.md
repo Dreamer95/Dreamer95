@@ -1,7 +1,7 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [Dong!] 👋
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dreamer95/&title=Profile%20Views)
 
-Hi, I'm Tuan Anh, a passionate self-taught frontEnd web developer.
+Hi, I'm Ngoc Dong, a passionate self-taught frontEnd web developer.
 
 - 🔭 I’m currently working on Ants 
 - 🌱 I’m currently learning Javascript, ReactJS, CSS,  Python.
