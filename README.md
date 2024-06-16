@@ -3,8 +3,8 @@
 
 Hi, I'm Ngoc Dong, a passionate self-taught Front-end web developer.
 
-- 🔭 I’m currently working on Hybrid Technologies VN 
-- 🌱 I’m currently learning Javascript, ReactJS, CSS,  Python.
+- 🔭 I’m currently working on OneMount Group.
+- 🌱 I’m currently learning Typescript, Nextjs, Tailwind CSS, Golang.
 - 👯 I’m looking to collaborate on [Dreamer95](https://github.com/Dreamer95.github.io)
 - 💬 Ask me about anything [here](https://github.com/Dreamer95/Dreamer95/issues)
 <br>
